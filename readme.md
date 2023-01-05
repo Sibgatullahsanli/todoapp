@@ -26,3 +26,9 @@
 - İstatistikler
 
 **AdminLTE** temasını indirmek için [buraya tıklayın](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.1.0.zip)
+
+[PATİKA](https://app.patika.dev/) dev in Php dersleri çerçevesinde yaptığımız Todoapp çalışmasını içeren çalışmadır.
+
+[Patika Profilim](https://app.patika.dev/sibgat)
+
+[GitHub Profilim](https://github.com/Sibgatullahsanli)
