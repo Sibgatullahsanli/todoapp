@@ -1,5 +1,4 @@
 ## TodoAPP - Projesi 
-### NOT: ARKADAŞLAR BENİM BU ÇALIŞMA ŞUAN SAĞLIKLI ÇALIŞMAMAKTA BİLGİNİZ OLSUN
 [Patika](https://patika.dev) PhpBasics eğitim seti için hazırladığım TodoApp uygulaması.
 
 ![img.png](img.png)
